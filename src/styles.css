@@ -1,8 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
 
+/* Animaiones */
 .fast {
   -webkit-animation-duration: 0.3s;
   animation-duration: 0.3s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
+}
+
+/* Tema */
+#themecolors .selector {
+  cursor: pointer;
 }
